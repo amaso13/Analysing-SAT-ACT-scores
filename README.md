@@ -43,29 +43,29 @@ You can see the sources for the SAT data [here](https://blog.collegevine.com/her
 
 | Features | Type | Dataset | Description |
 | --- | --- | --- | --- |
-| **state** | **object** | **SAT/ACT** | **Any given State.** |
-| **participation_sat_17** | **float** | **SAT** | **SAT Participation Rate in a given state in 2017** |
-| **erw_sat_17** | **integer** | **SAT** | **Mean score for SAT English/Writing in 2017** |
-| **math_sat_17** | **integer** | **SAT** | **Mean score for SAT Math in 2017 in a given state** |
-| **total_sat_17** | **integer** | **SAT** | **Mean total SAT score a given state** |
-| **participation_act_17** | **float** | **ACT** | **ACT Participation Rate in a given state in 2017** |
-| **english_act_17** | **float** | **ACT** | **Mean score for ACT English in 2017 in a given state** |
-| **math_act_17** | **float** | **ACT** | **Mean score for ACT Math in 2017 in a given state** |
-| **reading_act_17** | **float** | **ACT** | **Mean score for ACT Reading in 2017 in a given state** |
-| **science_act_17** | **float** | **ACT** | **Mean score for ACT Science in 2017 in a given state** |
-| **composite_act_17** | **float** | **ACT** | **Mean score for ACT Composite in 2017 in a give state** |
-| **participation_sat_18** | **float** | **SAT** | **SAT Participation Rate in a given state in 2018** |
-| **erw_sat_18** | **integer** | **SAT** | **Mean score for SAT English/Writing in 2018** |
-| **math_sat_18** | **integer** | **SAT** | **Mean score for SAT Math in 2018 in a given state** |
-| **total_sat_18** | **integer** | **SAT** | **Mean total SAT score a given state in 2018** |
-| **participation_act_18** | **float** | **ACT** | **ACT Participation Rate in a given state in 2018** |
-| **composite_act_18** | **float** | **ACT** | **Mean score for ACT Composite in 2018 in a give state** |
-| **math_sat_19** | **float** | **SAT** | **Mean score for SAT Math in 2019 in a given state** |
-| **ebrw_sat_19**  | **integer** | **SAT** | **Mean score for SAT English/Writing in 2019** |
-| **participation_sat_19** | **integer** | **SAT** | **SAT Participation Rate in a given state in 2019** |
-| **total_sat_19** | **integer** | **SAT** | **Mean total SAT score a given state** |
-| **participation_act_19** | **float** | **ACT** | **ACT Participation Rate in a given state in 2019** |
-| **composite_act_19** | **float** | **ACT** | **Mean score for ACT Composite in 2019 in a give** |
+| state | object | SAT/ACT | Any given State. |
+| participation_sat_17 | float | SAT | SAT Participation Rate in a given state in 2017 |
+| erw_sat_17 | integer | SAT | Mean score for SAT English/Writing in 2017 |
+| math_sat_17 | integer | SAT | Mean score for SAT Math in 2017 in a given state |
+| total_sat_17 | integer** | SAT | Mean total SAT score a given state |
+| participation_act_17 | float | ACT | ACT Participation Rate in a given state in 2017 |
+| english_act_17 | float | ACT | Mean score for ACT English in 2017 in a given state|
+| math_act_17 | float | ACT | Mean score for ACT Math in 2017 in a given state |
+| reading_act_17 | float | ACT | Mean score for ACT Reading in 2017 in a given state |
+| science_act_17 | float | ACT | Mean score for ACT Science in 2017 in a given state |
+| composite_act_17 | float | ACT | Mean score for ACT Composite in 2017 in a give state |
+| participation_sat_18 | float | SAT | SAT Participation Rate in a given state in 2018 |
+| erw_sat_18 | integer | SAT | Mean score for SAT English/Writing in 2018 |
+| math_sat_18 | integer | SAT | Mean score for SAT Math in 2018 in a given state |
+| total_sat_18 | integer | SAT | Mean total SAT score a given state in 2018 |
+| participation_act_18 | float | ACT | ACT Participation Rate in a given state in 2018 |
+| composite_act_18 | float | ACT | Mean score for ACT Composite in 2018 in a give state |
+| math_sat_19 | float | SAT |*Mean score for SAT Math in 2019 in a given state |
+| ebrw_sat_19  | integer | SAT | Mean score for SAT English/Writing in 2019 |
+| participation_sat_19 | integer | SAT | SAT Participation Rate in a given state in 2019 |
+| total_sat_19 | integer | SAT | Mean total SAT score a given state |
+| participation_act_19 | float | ACT | ACT Participation Rate in a given state in 2019 |
+| composite_act_19 | float | ACT | Mean score for ACT Composite in 2019 in a give |
 
 
 ### Conclusion and Recommendation
